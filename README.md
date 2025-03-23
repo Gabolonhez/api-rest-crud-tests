@@ -5,8 +5,7 @@
 API Rest com CRUD completo, com testes automatizados, utilizando TDD.
 
 ## 🎯 Funcionalidades
-- [x] : Permite abrir e fechar os arcodeons, que mostrar as informações.
-- [x] : Permite alterar as informações via JSON.
+- [x] : Permite criar, atualizar, deletar e retornar usuários com ID, nome e e-mail.
 
 ## 💻 Tecnologias 
 
@@ -16,4 +15,5 @@ API Rest com CRUD completo, com testes automatizados, utilizando TDD.
 - `SQL`
 - `JSON`
 - `Jest`
+- `API`
 
